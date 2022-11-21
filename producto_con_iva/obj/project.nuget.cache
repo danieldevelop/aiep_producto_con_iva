@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EPD3GZ1RuUBNuRIt0vMZT+rdBLpu455h1lnOC1umiMZspyucJqw7c7NkJGhMByWAedoMIxWH/fI85gs6TVZt2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ites_\\OneDrive\\Escritorio\\SUBIDA AL GITHUB CODIGOS\\producto_con_iva\\producto_con_iva\\producto_con_iva.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ites_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
